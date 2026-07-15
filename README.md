@@ -34,6 +34,17 @@ Languages: JavaScript, PHP, Python, Dart, SQL, Java, C#, C++, HTML and CSS
 - Managed MySQL databases and resolved application issues.
 - Collaborated in Agile development cycles.
 
+ ###Full-Stack Developer — SBC
+
+- Developing a cross-platform sales-representative tracking application using Flutter and Dart.
+- Building mobile and desktop interfaces with responsive UI components.
+- Integrating REST APIs with a Dart backend and SQL Server database.
+- Implementing QR-code scanning, GPS validation, store check-in, and checkout.
+- Developing visit history, interactive maps, shift summaries, and monthly working-hours reports.
+- Implementing role-based access for sales representatives and administrators.
+- Testing API endpoints with Postman and debugging frontend, backend, and database issues.
+- Using Git and GitHub for version control and project collaboration.
+
 ### IT Support & Warehouse Management Intern — PC DEALNET
 
 - Provided hardware, software, and network support.
